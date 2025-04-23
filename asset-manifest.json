@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fuzzy-text-app/static/css/main.45107ff0.css",
-    "main.js": "/fuzzy-text-app/static/js/main.a1eeb832.js",
+    "main.css": "/fuzzy-text-app/static/css/main.e783aa34.css",
+    "main.js": "/fuzzy-text-app/static/js/main.1869c3ea.js",
     "static/js/453.bf312a13.chunk.js": "/fuzzy-text-app/static/js/453.bf312a13.chunk.js",
     "index.html": "/fuzzy-text-app/index.html",
-    "main.45107ff0.css.map": "/fuzzy-text-app/static/css/main.45107ff0.css.map",
-    "main.a1eeb832.js.map": "/fuzzy-text-app/static/js/main.a1eeb832.js.map",
+    "main.e783aa34.css.map": "/fuzzy-text-app/static/css/main.e783aa34.css.map",
+    "main.1869c3ea.js.map": "/fuzzy-text-app/static/js/main.1869c3ea.js.map",
     "453.bf312a13.chunk.js.map": "/fuzzy-text-app/static/js/453.bf312a13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45107ff0.css",
-    "static/js/main.a1eeb832.js"
+    "static/css/main.e783aa34.css",
+    "static/js/main.1869c3ea.js"
   ]
 }
