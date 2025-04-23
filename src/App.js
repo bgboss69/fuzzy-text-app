@@ -18,11 +18,11 @@ function App() {
           Learn React
         </a>
       </header>
-
-      <FuzzyText
-        baseIntensity={0.2}
-        hoverIntensity={hoverIntensity}
-        enableHover={enableHover}
+  
+      <FuzzyText 
+        baseIntensity={0.2} 
+        hoverIntensity={0.2} 
+        enableHover={0.5}
       >
         404
       </FuzzyText>
