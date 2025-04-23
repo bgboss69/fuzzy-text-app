@@ -8,13 +8,13 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Welcome to Fuzzy Text App</h1>
       <FuzzyText
         baseIntensity={0.2}
         hoverIntensity={hoverIntensity}
         enableHover={enableHover}
       >
-        404
+        404 <br />
+        not found
       </FuzzyText>
     </div>
   );
