@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import FuzzyText from './FuzzyText'; 
 function App() {
   return (
     <div className="App">
@@ -18,6 +18,14 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <FuzzyText
+        baseIntensity={0.2}
+        hoverIntensity={hoverIntensity}
+        enableHover={enableHover}
+      >
+        404
+      </FuzzyText>
     </div>
   );
 }
