@@ -13,7 +13,13 @@ function App() {
         hoverIntensity={hoverIntensity}
         enableHover={enableHover}
       >
-        404 <br />
+        404
+      </FuzzyText>
+      <FuzzyText
+        baseIntensity={0.2}
+        hoverIntensity={hoverIntensity}
+        enableHover={enableHover}
+      >
         not found
       </FuzzyText>
     </div>
