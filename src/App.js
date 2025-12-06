@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css';
 import FuzzyText from './FuzzyText'; // import FuzzyText component
 
 function App() {
-  const [hoverIntensity, setHoverIntensity] = useState(0.5);
-  const [enableHover, setEnableHover] = useState(true);
+  const hoverIntensity = 0.5;
+  const enableHover = true;
 
   return (
     <div className="App">
